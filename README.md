@@ -26,7 +26,7 @@ I'm a student, who is interested in programming and rocket science. <img width="
 [piggybudget]: https://budget-app-62a0d.web.app/
 [retrowindows]: https://retro-windows.web.app/
 
-<br>
+<br/>
 
 <h2>GoalScheduler</h2>
   Web application which the main purpose is to mirror a real-life goal planner with activity
