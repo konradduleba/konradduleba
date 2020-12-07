@@ -52,25 +52,6 @@ I'm a student, who is interested in programming and rocket science. <img width="
   - GSAP
   - IONIC
 
-<h2>Piggy Notes</h2>
-Web app for taking notes with the possibility of editing them, viewing the archive and sharing information with other users.
-The project is in the development phase, created by me.
-
-<br/>Actual functionalities in a shortcut:
-- register, login (with a proper validation),
-- creating, modifying, viewing or deleting notes,
-- changing user credentials like user image/password/username,
-- dark mode and language selection,
-- sharing notes with other users,
-
-Future functionalities I plan to add:
-- the possibility of receiving notifications with reminders 
-
-ACQUAINTED TECHNOLOGIES:
-- PHP 
-- SASS
-- MySQL
-
 <h2>Piggy Budget</h2>
 Fully completed budget control application which allows users to save their incomes and expenses, edit information, convert currencies and transfer entries between accounts.
 Piggy Budget uses Ionic Framework and it is integrated with Firebase, so it allows users to use app on Android OP.
