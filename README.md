@@ -5,7 +5,7 @@ I'm a student, who is interested in programming and rocket science. <img width="
 
 <img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/3524/3524716.svg" /> Just finished [GoalScheduler](https://github.com/CcConStanTine/MyScheduleWithFront)
 
-<img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/912/912524.svg" /> I’m learning <b>C#</b>
+<img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/912/912524.svg" /> I’m learning <b>C#</b> and <b>Node JS</b>
 
 <img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/2489/2489327.svg" /> I’m looking to collaborate on engaging projects
 
