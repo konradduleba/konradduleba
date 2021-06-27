@@ -3,15 +3,9 @@ I'm <b>Konrad</b>
 
 I'm a student, who is interested in programming and rocket science. <img width="28px" src="https://www.8p-design.com/sites/default/files/styles/inline_content_screen_lg_min_1x/public/inline-images/icon-lancement_0.png" />
 
-<img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/3524/3524716.svg" /> Just finished [GoalScheduler](https://github.com/CcConStanTine/MyScheduleWithFront)
-
-<img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/912/912524.svg" /> I’m learning <b>C#</b> and <b>Node JS</b>
-
-<img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/2489/2489327.svg" /> I’m looking to collaborate on engaging projects
+<img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/912/912524.svg" /> I’m learning <b>Nest JS</b>
 
 <img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/3419/3419391.svg" /> Ask me about hacking Apollo 14 Guidance Computer 
-
-<img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" /> 2021 Goals: Make one app using <b>Angular</b>
 
 <h2>Languages and Tools</h2>
 <img width="28px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" />
